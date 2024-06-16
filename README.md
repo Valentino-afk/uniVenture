@@ -3,8 +3,6 @@
 *UniVenture* was developed as a first year group final project in Universidad Nacional De San Martín.
 The purpose of developing this game in Assembly was to fully understand the usage of stack memory and processor interrupts.
 In this case, we are using TASM to emulate the Intel 8086 micro-chip.
-This game allows you to play with the mouse, it also has every kind of validations so you cannot break it.
-And we also put a lot of work on making it visually pleasing too.
 
 # Preview
 
